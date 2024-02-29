@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587627937007",
+    "project_id": "loginfr-7b0a0",
+    "storage_bucket": "loginfr-7b0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587627937007:android:66bd8817b639285a592f1a",
+        "android_client_info": {
+          "package_name": "com.example.ez06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQFpWM25iPNO5q2Q5LSB4c3UGSCIuexI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
